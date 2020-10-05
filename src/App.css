@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+.card{
+  width:30%;
+  height:30%;
+  padding:10px;
+  margin: 10px;
+  background-color: #36383b;
+  color: aliceblue;
+}
+#img{
+  height: 90%;
+  width:90%;
+ 
+}
